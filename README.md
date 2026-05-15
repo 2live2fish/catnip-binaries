@@ -1,2 +1,2 @@
 # catnip-binaries
-Public binary distribution for CATNIP. Holds third-party native binaries (whisper.cpp 'stream' etc.) that CATNIP's -Pnative-installer build fetches at package time. CATNIP source code is private (2live2fish/catnip).
+Public binary distribution for CATNIP. Holds third-party native binaries (whisper.cpp 'stream' etc.) that CATNIP's -Pnative-installer build fetches at package time.
